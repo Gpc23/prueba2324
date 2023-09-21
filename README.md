@@ -3,7 +3,7 @@ Esto es un repositorio de prueba
 
 ## Titulo 2
 
-Hola esto es una plabra en **negrita**. Una*cursiva*
+Hola esto es una plabra en **negrita**. Una *cursiva*
 
 1. Uno 
 2. Dos
